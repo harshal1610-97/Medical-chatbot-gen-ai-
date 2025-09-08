@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Medical-chatbot-gen-ai-
 
 
@@ -54,6 +53,3 @@ open up localhost:
 -Flask
 - Generative ai
 - Pinecone
-=======
-# Medical-chatbot-gen-ai-
->>>>>>> bd7557db709c2926db66738513c78aa3ae382a81
